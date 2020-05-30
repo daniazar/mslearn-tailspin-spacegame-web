@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/danielazar0272/Space%20Game%20-%20Web%20-%20Pipeline%20-%20Demo%20Team/_apis/build/status/daniazar.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/danielazar0272/Space%20Game%20-%20Web%20-%20Pipeline%20-%20Demo%20Team/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
